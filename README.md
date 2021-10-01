@@ -9,3 +9,7 @@ creating a repo noob style
 use git add
 6.  commit file for changes
 7.  push to publish changes from commits to repo
+
+# github is cool 
+localhost uploads is the way to add file changes using 
+the git push command to a project or repo
