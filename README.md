@@ -8,4 +8,4 @@ creating a repo noob style
 5.  add file - veriy file is modified from staging are
 use git add
 6.  commit file for changes
-
+7.  push to publish changes from commits to repo
